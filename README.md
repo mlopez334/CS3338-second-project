@@ -1,0 +1,1 @@
+This repository contains one html file, and said html file contains my name and the fact I like to play minecraft. The purpose of this repository is to practice using the tools of git and github we learned about in class.
