@@ -1,0 +1,36 @@
+commit d4dc0a9171d4fa899579ec083cd1c375c263775a
+Author: Marco <mlopez334@calstatela.edu>
+Date:   Thu Sep 4 23:20:33 2025 -0700
+
+    Resolved merge conflict by discarding changes from main
+
+commit 26b2059c0d2e7d5d5f1a15f520266152df77c942
+Merge: 6017026 706b94e
+Author: Marco <mlopez334@calstatela.edu>
+Date:   Thu Sep 4 23:20:03 2025 -0700
+
+    Resolved merge conflict by discarding changes from main
+
+commit 706b94e9752e71f23a93faf5f39129d8c6f173f6
+Author: Marco <mlopez334@calstatela.edu>
+Date:   Thu Sep 4 23:13:46 2025 -0700
+
+    added favorite game to html
+
+commit 601702694d9803a865bc3f2e8dd4a61bb76f801b
+Author: Marco <mlopez334@calstatela.edu>
+Date:   Thu Sep 4 23:10:58 2025 -0700
+
+    Added favorite food to html document
+
+commit b154d4f791209c4f9309135452e72e5523b7e4db
+Author: Marco <mlopez334@calstatela.edu>
+Date:   Thu Sep 4 21:43:26 2025 -0700
+
+    filled in blanks of html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
